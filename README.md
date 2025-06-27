@@ -19,7 +19,7 @@
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalebe%20Souza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalebe-souza-silva-339188334/)  
-[![Gmail](https://img.shields.io/badge/Gmail-kalebesouza.cc%40email.com-red?style=for-the-badge&logo=gmail)](mailto:kalebesouza.cc@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kalebesouza.cc%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kalebesouza.cc@gmail.com)
 
 ## 📊 My Status
 
