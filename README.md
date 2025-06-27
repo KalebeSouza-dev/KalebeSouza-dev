@@ -19,10 +19,10 @@
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalebe%20Souza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalebe-souza-silva-339188334/)  
-[![Gmail](https://img.shields.io/badge/Gmail-kalebesouza.cc%40email.com-red?style=for-the-badge&logo=gmail)](mailto:kalebesouza.cc@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kalebesouza.cc%40email.com-red?style=for-the-badge&logo=gmail)](mailto:kalebesouza.cc@gmail.com)
 
 ## 📊 My Status
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeSouza&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeSouza-dev&layout=compact&langs_count=6&theme=dracula"/>
 </div>
