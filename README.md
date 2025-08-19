@@ -13,7 +13,7 @@
 
 ## 📚 Atualmente estudando
 - Algoritmos Avançados
-- Banco de Dados (MySQL e MongoDB)
+- Bibliotecas Python: Pandas e NumPy
 - Java Orientado a Objetos
 
 ## 🌐 Contato
