@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kalebe Souza  
+# 👋 Olá, eu sou Kalebe Souza  
 
 ---
 <div style="display: inline_block"><br>
