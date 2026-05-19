@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kalebe Souza  
+# Olá, eu sou Kalebe Souza  
 
 ---
 <div style="display: inline_block"><br>
@@ -16,25 +16,27 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+Estudante e desenvolvedor focado em Python, IA, automação e criação de aplicações e ferramentas para empresas.
+
+Programador competitivo em busca de aprofundar conhecimentos em algoritmos avançados e competir em olimpíadas e competições de programação.
+
 ---
-## 🐍 Habilidades Principais
+## Habilidades Principais
 - **Linguagens:** Python, Java, C++  
+- **Bibliotecas e Frameworks:** Pandas, NumPy, Flask  
 - **Banco de Dados:** PostgreSQL  
-- **Bibliotecas Python:** Pandas, NumPy 
+- **Ferramentas e Versionamento:** Git, GitHub, Docker
 ---
-## 🚀 Atualmente estudando
-- 🤖 **Inteligência Artificial** e **Machine Learning**
-- 📊 **Ciência de Dados**
-- ⚙️ **Algoritmos Avançados**
+## Prêmios e Conquistas
+- 🥇 Medalha de Ouro na Olimpíada Paraibana de Informática (OPI) 2025 — Nível Universitário
 ---
-## 🌐 Contato
+## Atualmente estudando
+- **Algoritmos Avançados**
+- **Inteligência Artificial**, **Machine Learning** e aplicações com **LLMs** e automação
+- **Ciência de Dados**
+- **Desenvolvimento Web Full Stack**
+---
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalebe%20Souza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalebe-souza-silva-339188334/)  
 [![Gmail](https://img.shields.io/badge/Gmail-kalebesouza.cc%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kalebesouza.cc@gmail.com)
-
----
-## 📊 My Status
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeSouza-dev&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000"/>
-</div>
