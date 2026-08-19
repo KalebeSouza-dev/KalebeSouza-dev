@@ -28,7 +28,9 @@ Programador competitivo em busca de aprofundar conhecimentos em algoritmos avan�
 - **Ferramentas e Versionamento:** Git, GitHub, Docker
 ---
 ## Prêmios e Conquistas
-- 🥇 Medalha de Ouro na Olimpíada Paraibana de Informática (OPI) 2025 — Nível Universitário
+- 🥇 Medalha de Ouro — Olimpíada Paraibana de Informática (OPI) 2025 — Nível Universitário Júnior
+- 🥉 Medalha de Bronze — II Maratona Mista de Programção — Win Code Competitive
+- 🥉 Medalha de Bronze — Olimpíada Paraibana de Informática (OPI) 2026 — Nível Universitário Sênior
 ---
 ## Atualmente estudando
 - **Algoritmos Avançados**
