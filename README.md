@@ -16,16 +16,18 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-Estudante e desenvolvedor focado em Python, IA, automação e criação de aplicações e ferramentas para empresas.
+Desenvolvedor de Software com forte atuação em Python, construindo automações escaláveis e aplicações impulsionadas por IA (LLMs). 
 
-Programador competitivo em busca de aprofundar conhecimentos em algoritmos avançados e competir em olimpíadas e competições de programação.
+Atuo no desenvolvimento full-stack, integrando serviços backend em Flask com bancos de dados PostgreSQL e orquestração via Docker. 
+
+Com raízes na programação competitiva utilizando C++, trago uma forte base analítica em algoritmos e foco contínuo na eficiência e otimização de código.
 
 ---
 ## Habilidades Principais
 - **Linguagens:** Python, Java, C++  
-- **Bibliotecas e Frameworks:** Pandas, NumPy, Flask  
-- **Banco de Dados:** PostgreSQL  
-- **Ferramentas e Versionamento:** Git, GitHub, Docker
+- **Bibliotecas e Frameworks:** Flask, Next.js, NumPy
+- **Dados:** PostgreSQL, Pandas
+- **Ferramentas e Versionamento:** Git, Docker, GitHub, GitLab
 ---
 ## Prêmios e Conquistas
 - 🥇 Medalha de Ouro — Olimpíada Paraibana de Informática (OPI) 2025 — Nível Universitário Júnior
@@ -35,7 +37,6 @@ Programador competitivo em busca de aprofundar conhecimentos em algoritmos avan�
 ## Atualmente estudando
 - **Algoritmos Avançados**
 - **Inteligência Artificial**, **Machine Learning** e aplicações com **LLMs** e automação
-- **Ciência de Dados**
 - **Desenvolvimento Web Full Stack**
 ---
 ## Contato
