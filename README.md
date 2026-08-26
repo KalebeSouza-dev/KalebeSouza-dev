@@ -7,6 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
@@ -26,7 +27,7 @@ Com raízes na programação competitiva utilizando C++, trago uma forte base an
 ## Habilidades Principais
 - **Linguagens:** Python, Java, C++  
 - **Bibliotecas e Frameworks:** Flask, Next.js, NumPy
-- **Dados:** PostgreSQL, Pandas
+- **Dados:** PostgreSQL, SQLite, Pandas
 - **Ferramentas e Versionamento:** Git, Docker, GitHub, GitLab
 ---
 ## Prêmios e Conquistas
