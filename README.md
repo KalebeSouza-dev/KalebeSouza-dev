@@ -35,11 +35,6 @@ Com raízes na programação competitiva utilizando C++, trago uma forte base an
 - 🥉 Medalha de Bronze — II Maratona Mista de Programção — Win Code Competitive
 - 🥉 Medalha de Bronze — Olimpíada Paraibana de Informática (OPI) 2026 — Nível Universitário Sênior
 ---
-## Atualmente estudando
-- **Algoritmos Avançados**
-- **Inteligência Artificial**, **Machine Learning** e aplicações com **LLMs** e automação
-- **Desenvolvimento Web Full Stack**
----
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalebe%20Souza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalebe-souza-silva-339188334/)  
